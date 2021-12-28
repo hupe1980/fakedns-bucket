@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/hupe1980/fakedns/releases/download/v0.0.1/fakedns_Windows_i386.zip",
+            "bin": [
+                "fakedns.exe"
+            ],
+            "hash": "0f5abedf7fa37a2f3fc9b83ed08153412e5972b44c1965cfa26a3f1e48edcc71"
+        },
+        "64bit": {
+            "url": "https://github.com/hupe1980/fakedns/releases/download/v0.0.1/fakedns_Windows_x86_64.zip",
+            "bin": [
+                "fakedns.exe"
+            ],
+            "hash": "b948807ebb83fdff6fa34208a4e18b7229449ba871d50f81375451128ebf7f56"
+        }
+    },
+    "homepage": "https://github.com/hupe1980/fakedns",
+    "license": "MIT",
+    "description": "Tiny DNS proxy for Penetration Testers and Malware Analysts"
+}
