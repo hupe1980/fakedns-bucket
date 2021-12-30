@@ -1,19 +1,19 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/hupe1980/fakedns/releases/download/v0.0.3/fakedns_Windows_i386.zip",
+            "url": "https://github.com/hupe1980/fakedns/releases/download/v0.0.4/fakedns_Windows_i386.zip",
             "bin": [
                 "fakedns.exe"
             ],
-            "hash": "162f9c2c89c535898f383dc43c40e63031ef4ce4e7608081935bdccc79cd652c"
+            "hash": "c0fd5e0bed5129347a432c677a7a35bddceffbdfdd7c0d2a60d38f6d209182dd"
         },
         "64bit": {
-            "url": "https://github.com/hupe1980/fakedns/releases/download/v0.0.3/fakedns_Windows_x86_64.zip",
+            "url": "https://github.com/hupe1980/fakedns/releases/download/v0.0.4/fakedns_Windows_x86_64.zip",
             "bin": [
                 "fakedns.exe"
             ],
-            "hash": "a7df8e78422965c187cd66b32a33261c8fb84f2d24263303790b94787b124844"
+            "hash": "3d2e032af1fd01c7762b9c51654618e74008f89aef1dc48dce0b6c1badcd8447"
         }
     },
     "homepage": "https://github.com/hupe1980/fakedns",
